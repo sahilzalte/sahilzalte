@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilzalte&label=Profile%20views&color=0e75b6&style=flat" alt="sahilzalte" /> </p>
 
-- 💬 Ask me about **C CPP SQL PYTHON HTML**
+- 💬 Ask me about **C CPP BASIC PYTHON**
 
 - 📫 You can DM ME **zaltesahil94@gmail.com**
 
