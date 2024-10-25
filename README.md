@@ -1,5 +1,5 @@
 ![logo](https://github.com/sahilzalte/sahilzalte/blob/main/subscribe%20now.png)<h1 align="center"><h1 align="center">
-<h1 align="center">Hi 👋, I'm Sahil Zalte</h1>
+<h1 align="center">Hi , I'm Sahil Zalte</h1>
 <h3 align="center">STUDY FOR A DATA SCIENTIST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilzalte&label=Profile%20views&color=0e75b6&style=flat" alt="sahilzalte" /> </p>
