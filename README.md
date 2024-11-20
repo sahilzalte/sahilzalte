@@ -1,53 +1,74 @@
-![logo](https://github.com/sahilzalte/sahilzalte/blob/main/subscribe%20now.png)
+<p align="center"><img src="https://img.freepik.com/free-photo/forget-notes_53876-41427.jpg?t=st=1732132173~exp=1732135773~hmac=54effb2d2d0927364734ccff85790c12fb79b4db1cd41294f733febb4753c127&w=900" width="300px"></p>
 
-<h1 align="center">Hi, I'm Sahil Zalte</h1>
-<h3 align="center">STUDY FOR A DATA SCIENTIST</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sahilzalte&label=Profile%20views&color=0e75b6&style=flat" alt="sahilzalte" /> 
-</p>
 
-- 💬 Ask me about **C, C++, BASIC PYTHON**
-
-- 📫 You can DM me at **zaltesahil94@gmail.com**
-
-- ⚡ Fun fact **I THINK AI IS GOOD ⛩️**
-
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" style="border-radius: 15px; margin-top: 20px;" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left">
-  <a href="https://twitter.com/sahilzalte07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilzalte07" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sahilzalte.07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilzalte.07" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="border-radius: 8px;"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="border-radius: 8px;"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="border-radius: 8px;"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border-radius: 8px;"/> 
-  </a> 
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sahil+Zalte!;Welcome+to+My+GitHub+Profile!" />
+</div>
+<br>
+🙋‍♂️ About Me:
+<br>
+🔭 I’m currently working as a Student 💻 | Aspiring Data Scientist 📊.  
+<br>
+🌱 I’m currently learning Advanced Python and Data Analysis.  
+<br>
+👨‍💻 All of my projects are available at My Repository.  
+<br>
+📫 How to reach me: zaltesahil94@gmail.com.  
+<br>
+⚡ Fun fact: I THINK AI IS AMAZING 🤖!  
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+🚀 Languages and Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" /><br>
+</div>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+📊 My Stats:
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilzalte&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="sahilzalte top languages" style="border-radius: 15px; padding: 10px;"/>
+  <a href="https://github.com/sahilzalte/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil Zalte's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilzalte&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilzalte&hide_border=true&theme=radical" alt="sahilzalte" style="border-radius: 15px; padding: 10px;"/>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilzalte&show_icons=true&locale=en&hide_border=true&theme=radical" alt="sahilzalte stats" style="border-radius: 15px; padding: 10px;"/>
-</p>
+<a href="https://github.com/sahilzalte/github-readme-stats">
+  <img alt="Sahil Zalte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahilzalte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/sahilzalte/github-readme-stats">
+  <img alt="Sahil Zalte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilzalte&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+🤝 Connect With Me:
+<div align="center">
+  <a href="https://twitter.com/sahilzalte07" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+💜 Views and Followers:
+<a href="https://github.com/sahilzalte/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=sahilzalte">
+</a>
+<a href="https://github.com/sahilzalte?tab=followers">
+  <img src="https://img.shields.io/github/followers/sahilzalte?label=Followers&style=social" alt="GitHub Badge">
+</a>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Instagram!;I'm+a+Lifelong+Learner!" />
+</h3>
