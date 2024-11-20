@@ -1,22 +1,20 @@
 <p align="center"><img src="https://img.freepik.com/free-photo/forget-notes_53876-41427.jpg?t=st=1732132173~exp=1732135773~hmac=54effb2d2d0927364734ccff85790c12fb79b4db1cd41294f733febb4753c127&w=900" width="300px"></p>
-
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sahil+Zalte!;Welcome+to+My+GitHub+Profile!" />
 </div>
 <br>
 🙋‍♂️ About Me:
 <br>
-🔭 I’m currently working as a Student 💻 | Aspiring Data Scientist 📊.  
-<br>
-🌱 I’m currently learning Advanced Python and Data Analysis.  
+🔭 I’m currently working as a Student 💻 | Aspiring Data Scientist 📊. 
 <br>
 👨‍💻 All of my projects are available at My Repository.  
 <br>
-📫 How to reach me: zaltesahil94@gmail.com.  
+📫 How to reach me: zaltesahil94@gmail.com.
 <br>
-⚡ Fun fact: I THINK AI IS AMAZING 🤖!  
+<br>
+<strong> * * * * 🛂Need a Friend to manage my all work  * * * *</strong>
+<p>‎‎‎‎--->As a Learner and I will provide all My experience of my coding journey</p>
+
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
@@ -28,6 +26,7 @@
   <img src="https://skillicons.dev/icons?i=github,vscode" /><br>
 </div>
 <br>
+<!--Made by sahil-->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
