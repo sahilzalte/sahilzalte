@@ -1,6 +1,7 @@
-<p align="center"><img src="https://img.freepik.com/free-photo/forget-notes_53876-41427.jpg?t=st=1732132173~exp=1732135773~hmac=54effb2d2d0927364734ccff85790c12fb79b4db1cd41294f733febb4753c127&w=900" width="300px"></p>
+<center><p align="center"><img src="https://raw.githubusercontent.com/sahilzalte/sahilzalte/refs/heads/main/Main%20IMG.png" width="500px" height="300"></p></center>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sahil+Zalte!;Welcome+to+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+♑;I'm+Sahil+Zalte!;Welcome+to+My+GitHub+Profile!" />
 </div>
 <br>
 🙋‍♂️ About Me:
@@ -12,21 +13,26 @@
 📫 How to reach me: zaltesahil94@gmail.com.
 <br>
 <br>
-<strong> * * * * 🛂Need a Friend to manage my all work  * * * *</strong>
-<p>‎‎‎‎--->As a Learner and I will provide all My experience of my coding journey</p>
+<strong>Who Says Money Can't Buy Anything > </strong>
 
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
-🚀 Languages and Tools:
+
+🚀 Languages:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux" />
-  <img src="https://skillicons.dev/icons?i=github,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,java,html,<!--s_-->" />
+</div>
+
+<br>
+⚙️ Tools:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,blender,androidstudio,ai" />
 </div>
 <br>
-<!--Made by sahil-->
+<!-- Made by sahil -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
@@ -40,7 +46,8 @@
 <a href="https://github.com/sahilzalte/github-readme-stats">
   <img alt="Sahil Zalte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahilzalte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/sahilzalte/github-readme-stats">
+
+<a href="https://github.com/sahilzalte/github-readme-stats" >
   <img alt="Sahil Zalte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilzalte&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <br>
@@ -52,8 +59,6 @@
 <div align="center">
   <a href="https://twitter.com/sahilzalte07" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  
   </a>
 </div>
 <br>
@@ -69,5 +74,5 @@
   <img src="https://img.shields.io/github/followers/sahilzalte?label=Followers&style=social" alt="GitHub Badge">
 </a>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Instagram!;I'm+a+Lifelong+Learner!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+a+Lifelong+Learner!" />
 </h3>
