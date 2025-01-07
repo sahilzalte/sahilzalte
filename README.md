@@ -63,8 +63,9 @@
 
 <a href="https://github.com/sahilzalte/github-readme-stats">
     <img alt="Sahil Zalte's Top Languages"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilzalte&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilzalte&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+
 
 <br>
 <div align="center">
