@@ -45,7 +45,7 @@
 
 <br> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
 🚀 Languages:
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,js,css,mongodb,express,nodejs" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,js,css,mongodb,express,nodejs,react" /> </div>
 ⚙️ Tools:
 <div align="center"> <img src="https://skillicons.dev/icons?i=github,vscode,blender,androidstudio,ai,git,windows,linux,anaconda" /> </div> <br><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
 📊 My Stats:
