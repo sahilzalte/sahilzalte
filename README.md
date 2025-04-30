@@ -43,11 +43,47 @@
 
 > **Who Says Money Can't Buy Anything ?** 💸
 
-<br> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 🚀 Languages:
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,js,css,mongodb,express,nodejs,react" /> </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,expressjs,mongodb,react,nextjs" />
+</div>
+<br>
+<br>
 ⚙️ Tools:
-<div align="center"> <img src="https://skillicons.dev/icons?i=github,vscode,blender,androidstudio,ai,git,windows,linux,anaconda" /> </div> <br><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,blender,androidstudio,ai,git,windows,linux,anaconda,figma,postman,jupyter" />
+</div>
+<br>
+<br>
+
+📚 Libraries:
+<div align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpeechRecognition-ffcc00?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/gTTS-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/screeninfo-6A1B9A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pyjokes-00BFA5?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 📊 My Stats:
 <p align="center"> <a href="https://github.com/sahilzalte/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil Zalte's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilzalte&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /> </a> </p><div align="center"> <a href="https://github.com/sahilzalte/github-readme-stats"> <img alt="Sahil Zalte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahilzalte&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> </a> <a href="https://github.com/sahilzalte/github-readme-stats"> <img alt="Sahil Zalte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilzalte&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> </a> </div><br> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div> <br>
 🤝 Connect With Me:
