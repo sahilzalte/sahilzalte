@@ -30,26 +30,59 @@
 </div>
 <br>
 
-> Languages & Frameworks I use for full-stack web development, scripting, and application design.
-
-### 🚀 Languages & Frameworks:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,expressjs,react,nextjs" />
-</div>
-
----
-
-### ⚙ Tools & IDEs:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode,blender,androidstudio,ai,git,windows,linux,anaconda,figma,postman" />
-</div>
+> **Languages & Frameworks I use for full-stack web development, scripting, and application design**
+> 
+### 🚀 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,md,nodejs,expressjs,react,nextjs,tailwind,bootstrap" />
+</p>
 
 ---
 
-### ☁ Deployment & Databases:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,vercel,netlify" />
-</div>
+### 🛠️ Tools
+
+#### 🔧 Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,npm,postman,redux,vite" />
+</p>
+
+---
+
+#### 🧠 Design & Prototyping Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,blender,svg" />
+</p>
+
+---
+
+#### 💬 Communication & Community
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gmail,discord,linkedin,twitter,stackoverflow" />
+</p>
+
+---
+
+#### 🖥️ IDEs & Code Editors Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,replit,github" />
+</p>
+
+---
+
+#### 🧑‍💻 Operating Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,kali" />
+</p>
+
+---
+
+#### ☁️ Deployment Platforms & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel,netlify,anaconda" />
+</p>
+
+---
+
 
 ### 📚 Libraries:
 <div align="center">
