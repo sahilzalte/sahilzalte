@@ -22,7 +22,7 @@
 
 <br>
 
-> *Who Says Money Can't Buy Anything ?* 💸
+> **Who Says Money || Knowledge Can't Buy Anything ?** 💸
 
 <br>
 <div align="center">
@@ -34,7 +34,7 @@
 > 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,md,nodejs,expressjs,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bootstrap,html,css,js,md,nodejs,expressjs,react,nextjs,tailwind" />
 </p>
 
 ---
@@ -98,6 +98,13 @@
   <img src="https://img.shields.io/badge/pyjokes-00BFA5?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</div >
+<div align="center">
+   <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Requests-007ACC?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
 
 <br>
@@ -126,6 +133,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sahilzalte07)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://sahils-omega.vercel.app/images/insta.jpg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-zalte-999b55304/)
+<a href="https://youtube.com/@sahil94-v9e?si=Mw-345tD-LNoIKWT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+
 
 </div>
 
