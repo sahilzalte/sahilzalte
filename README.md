@@ -17,7 +17,7 @@
 - 🔭 I'm currently working as a *Student* 💻 | *Aspiring Data Scientist* 📊  
 - 🌱 Just Completed Full-Stack Development with the *MERN Stack*
 - 🎯 Passionate about building real-world projects and solving problems with code
-- 🚀 Currently working on a *Data Structure and Algorithms*
+- 🚀 Currently working on a *Data Science*
 - 📚 Exploring the world of *Data Analytics* and *AI*
 
 <br>
