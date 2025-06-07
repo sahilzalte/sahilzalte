@@ -133,7 +133,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/sahilzalte07)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://sahils-omega.vercel.app/images/insta.jpg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-zalte-999b55304/)
-<a href="https://youtube.com/@sahil94-v9e?si=Mw-345tD-LNoIKWT" target="_blank">
+<a href="https://www.youtube.com/@codewithsahil-07" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
 
