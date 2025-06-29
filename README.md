@@ -16,13 +16,11 @@
 ### 🙋‍♂ About Me:
 - 🔭 I'm currently working as a *Student* 💻 | *Aspiring Data Scientist* 📊  
 - 🌱 Just Completed Full-Stack Development with the *MERN Stack*
-- 🎯 Passionate about building real-world projects and solving problems with code
-- 🚀 Currently working on a *Data Science*
-- 📚 Exploring the world of *Data Analytics* and *AI*
+- 🚀 Currently working on a **Data Science**
 
 <br>
 
-> **Who Says Money || Knowledge Can't Buy Anything ?** 💸
+> **Behind every successful man is not a**   _......_ 
 
 <br>
 <div align="center">
@@ -30,7 +28,7 @@
 </div>
 <br>
 
-> **Languages & Frameworks I use for full-stack web development, scripting, and application design**
+**Languages & Frameworks I use for full-stack web development, scripting, and application design**
 > 
 ### 🚀 Languages & Frameworks
 <p align="center">
