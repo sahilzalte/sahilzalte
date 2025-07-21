@@ -22,7 +22,7 @@
 
 > ### 🧠 Programming & Scripting Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,md" />
 </div>
 
 ---
@@ -31,7 +31,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,nodejs,expressjs,react,nextjs,pkl,sklearn,tensorflow" />
 </div>
-        
+
+---
+<br>
+
 ## 🛠️ Tools & Technologies  
 
 > ### 🔧 Development Tools  
@@ -122,7 +125,10 @@
         <img alt="Sahil Zalte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilzalte&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
     <br>
+    <br>
+    <br>
     <img src="https://github-profile-trophy.vercel.app/?username=sahilzalte&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" style="margin-top:20px;"/>
+    
 </div>
 
 <div align="center">
