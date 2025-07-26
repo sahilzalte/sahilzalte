@@ -22,14 +22,14 @@
 
 > ### 🧠 Programming & Scripting Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,md,php" />
 </div>
 
 ---
 
 > ### 🏗️ Frameworks & Libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,nodejs,expressjs,react,nextjs,pkl,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,tailwind,react,nextjs,pkl,sklearn,tensorflow,flask,bootstrap,jquery" />
 </div>
 
 ---
