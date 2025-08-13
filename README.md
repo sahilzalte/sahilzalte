@@ -1,13 +1,13 @@
-<center>
-    <p align="center">
-        <img src="https://raw.githubusercontent.com/sahilzalte/sahilzalte/refs/heads/main/Main%20IMG.png" width="" height="">
-    </p>
-</center>
+<!-- <center> 
+<!--     <p align="center"> -->
+<!--         <img src="https://raw.githubusercontent.com/sahilzalte/sahilzalte/refs/heads/main/Main%20IMG.png" width="" height=""> -->
+<!--     </p> -->
+<!-- </center> -->
 <br>
 
-### 🙋‍♂ About Me:
+###  About 
 - 🔭 I'm currently working as a *Student* 💻 | *Aspiring Data Scientist* 📊  
-- 🌱 Just Completed Full-Stack Development with the *MERN Stack*
+- 🌱 Just Completed Full-Stack Development with the **MERN Stack** & **Next.js**
 - 🚀 Currently working on a **Data Science**
 
 <br>
@@ -124,10 +124,6 @@
     <a href="https://github.com/sahilzalte/github-readme-stats">
         <img alt="Sahil Zalte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilzalte&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-    <br>
-    <br>
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=sahilzalte&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" style="margin-top:20px;"/>
     
 </div>
 
