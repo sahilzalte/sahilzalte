@@ -155,7 +155,7 @@
     <a href="https://twitter.com/sahilzalte07" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="https://sahils-omega.vercel.app/images/insta.jpg" target="_blank">
+    <a href="https://ik.imagekit.io/codebysahil/Sahils?updatedAt=1757108242160" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://www.linkedin.com/in/sahil-zalte-999b55304/" target="_blank">
